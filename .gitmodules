@@ -1,0 +1,3 @@
+[submodule "deutschlandGeoJSON"]
+	path = deutschlandGeoJSON
+	url = https://github.com/isellsoap/deutschlandGeoJSON.git

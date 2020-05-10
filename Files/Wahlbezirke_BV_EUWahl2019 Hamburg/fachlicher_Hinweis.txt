@@ -1,0 +1,2 @@
+Der Wahlbezirk 15001 mit den Seeleuten und Binnenschiffern kann räumlich nicht dargestellt werden. 
+Er ist somit im Geodatensatz Wahlbezirke nicht enthalten.
